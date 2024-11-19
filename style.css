@@ -144,7 +144,7 @@ nav a.properties {
     object-fit: cover;
     border-bottom-left-radius: 303px;
     align-items: center;
-    padding: 130px;
+    padding: 130px 130px 30px 130px;
     margin: 0px 20px 90px;
 }
 
